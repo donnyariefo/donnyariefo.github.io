@@ -1,6 +1,6 @@
 baseURL: "https://donnyariefo.github.io/"
 languageCode: "en-us"
-title: "Hugo Novela"
+title: "Donny Arief"
 pygmentsstyle: 'monokai'
 metaDataFormat: yaml
 
@@ -18,4 +18,4 @@ social:
   dribbble: "#"
   youtube: "#"
 taxonomies:
-  author: authors
+  author: donnyao
